@@ -1,0 +1,12 @@
+1 ziyad1 z z 21 m O 0
+2 ziyad2 zz zz 21 m A 0
+3 ziyad3 zzz zzz 21 m AB 0
+
+
+1 ziyad1 z z 21 m O z z
+2 ziyad2 zz zz 21 m O zz zz
+3 ziyad3 zzz zzz 21 m O zzz zzz
+
+
+
+0.5 0.5 0.5 0.45 0.45

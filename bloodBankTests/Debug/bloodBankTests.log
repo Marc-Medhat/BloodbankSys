@@ -1,0 +1,57 @@
+﻿  Source.cpp
+  donor.cpp
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\donor.cpp(87,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\donor.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\donor.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\donor.cpp(278,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\donor.cpp(327,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\donor.cpp(368,20): warning C4018: '<': signed/unsigned mismatch
+  recipient.cpp
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(52,15): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(58,15): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(64,16): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(70,15): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(106,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(133,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(185,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(260,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(406,20): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(448,20): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(490,21): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(532,20): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(566,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\recipient.cpp(607,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  bloodBankTests.vcxproj -> C:\Users\yn\Desktop\New folder\New folder (5)\Visual studio\bloodBankTests\Debug\bloodBankTests.exe
